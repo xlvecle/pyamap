@@ -28,8 +28,5 @@ setup(
   0. You just DO WHAT THE FUCK YOU WANT TO.
 
     ''',
-    entry_points="""
-    [console_scripts]
-    """,
-    url='xlvecle.github.io/pyamap'
+    url='http://xlvecle.github.io/pyamap'
 )
