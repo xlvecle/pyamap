@@ -14,8 +14,8 @@ html = """
         position:absolute;
       }
       #mapContainer{
-        width: 100%;
-        height: 100%;
+        width: map-width;
+        height: map-height;
       }
     </style>
   </head>
